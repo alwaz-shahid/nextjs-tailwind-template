@@ -14,7 +14,7 @@ A quick start template so that you can focus more on your project.
 >
 > Make your project SEO friendly with Next-Seo.
 
- Here you can find live [Preview](http://example.net/) of the app. &copy; 2022
+ Here you can find live [Preview]([http://example.net/](https://next-tailwind-css-cna.netlify.app/)) of the app. &copy; 2022
 
 ## Commands
 ```
