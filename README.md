@@ -18,6 +18,8 @@ A quick start template so that you can focus more on your project.
 
 ## Commands
 ```
+CLI: npx create-next-app --example [link] [my-app]
+>
 dev:next dev
 build: next build
 start: next start
