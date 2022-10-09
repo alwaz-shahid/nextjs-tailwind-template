@@ -21,7 +21,7 @@ A quick start template so that you can focus more on your project.
 > 
 > - npx create-next-app --example https://github.com/alwaz-shahid/nextjs-tailwind-template YOUR_APP_NAME
 
- Here you can find live [Preview]([http://example.net/](https://next-tailwind-css-cna.netlify.app/)) of the app. &copy; 2022
+ Here you can find live [Preview](https://next-tailwind-css-cna.netlify.app/) of the app. &copy; 2022
 
 ## Commands
 ```
