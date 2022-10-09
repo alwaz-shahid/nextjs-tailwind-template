@@ -1,11 +1,18 @@
 import { NextSeo } from 'next-seo';
-import Main from '../components/Layout/Main';
+import Layout from '../src/components/Layout';
 
 export default function Home() {
   return (
     <>
       <NextSeo title='Home' />
-      <Main />
+      <Layout />
     </>
   );
+}
+
+export async function getStaticProps() {
+  return {
+    revalidate: 1000000,
+    props: {},
+  };
 }

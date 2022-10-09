@@ -1,12 +1,14 @@
 import { DefaultSeo } from 'next-seo';
-import '../styles/globals.css';
+import '../src/styles/globals.css';
+import { ThemeProvider } from 'next-themes';
 import SEO from '../next-seo.config';
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <DefaultSeo {...SEO} />
-
-      <Component {...pageProps} />
+      <ThemeProvider attribute='class'>
+        <Component {...pageProps} />
+      </ThemeProvider>
     </>
   );
 }
