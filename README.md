@@ -1,6 +1,9 @@
 
 # Next.js Tailwind Css Template.
 
+<hr/>
+
+![image](https://user-images.githubusercontent.com/52915358/194752929-ee17ed40-e494-4984-bc09-f43699b0a492.png)
 
 <hr/>
 <h1 align="center">Hi 👋, I'm Alwaz</h1>
